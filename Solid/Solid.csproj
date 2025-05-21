@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="I %28 Interface Segregation %29\" />
+    <Folder Include="D %28 Dependency Inversion %29\" />
+  </ItemGroup>
+
 </Project>

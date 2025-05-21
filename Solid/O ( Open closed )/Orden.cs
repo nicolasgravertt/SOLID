@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Solid;
+namespace OpenClosed;
 
 public class Orden
 {

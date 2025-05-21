@@ -1,6 +1,5 @@
 ﻿using System;
-
-namespace Solid;
+namespace OpenClosed;
 public interface Envios
 {
     string getCost(Orden orden);

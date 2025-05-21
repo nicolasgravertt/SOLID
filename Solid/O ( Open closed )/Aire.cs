@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Solid;
+namespace OpenClosed;
 internal class Aire : Envios
 {
     public string getCost(Orden orden)

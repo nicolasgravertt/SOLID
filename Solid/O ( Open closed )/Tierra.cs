@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Solid;
+namespace OpenClosed;
 internal class Tierra : Envios
 {
     public string getCost(Orden orden)
